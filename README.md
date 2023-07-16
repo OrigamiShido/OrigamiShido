@@ -8,13 +8,13 @@ OrigamiShido is originated from Japanese light novel *Date a Live*'s two charact
 
 #### Currently learning
 
-- C, C++, C# and Python
+- C, C++ and Python
 - Mathematica and Matlab
 - wikitext
 
-#### Why GitHub?
+#### Why GitHub？
 
-Hope to use GitHub to manage my code and learn more interesting things.
+Hope to use GitHub to manage my code and learn more interesting things. Actually I found there quite inspiring.
 
 #### Hobbies
 
@@ -23,6 +23,12 @@ Games, VOCALOID, etc. I'm fond of any interesting thing.
 #### Current status
 
 Try to be.
+
+#### Ways to connect
+
+OrigamiShidoGitHub@outlook.com
+
+You can connect me through this email address(I think it is valid).
 
 --------
 
