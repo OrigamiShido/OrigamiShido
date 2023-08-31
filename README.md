@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Origami Shido**(折り紙　紫藤). Currently studying in Wuhan University, EIS major.
+I'm **Origami Shido**(折り紙　紫藤). Currently studying in Wuhan University, EIS(Electronic Information Science) major.
 
 #### About my name
 
@@ -11,10 +11,11 @@ OrigamiShido is originated from Japanese light novel *Date a Live*'s two charact
 - C, C++ and Python
 - Mathematica and Matlab
 - wikitext
+- markdown and latex
 
 #### Why GitHub？
 
-Hope to use GitHub to manage my code and learn more interesting things. Actually I found there quite inspiring.
+Hope to use GitHub to manage my code and learn more interesting things. Actually I found here quite inspiring.
 
 #### Hobbies
 
@@ -23,6 +24,14 @@ Games, VOCALOID, etc. I'm fond of any interesting thing.
 #### Current status
 
 Try to be.
+
+To be honest, I'm quite anxious about the current invironment and worrying about the future of my cyber life. I cannot figure out some efficient solutions temporarily, but I will try.
+
+*I think I have nothing but my hope, faith, vigor, and pain.*
+
+### Current target
+
+Actually, I find that my life is somehow overwhelming. In current status I will only update my anthology, making no code contributions but only to express my feelings.
 
 #### Ways to connect
 
