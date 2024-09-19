@@ -12,6 +12,7 @@ OrigamiShido is originated from Japanese light novel *Date a Live*'s two charact
 - Mathematica and Matlab
 - wikitext
 - markdown and latex
+- Verilog
 
 #### Why GitHub？
 
