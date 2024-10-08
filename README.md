@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Origami Shido**(折り紙　紫藤). Currently studying in Wuhan University, EIS(Electronic Information Science) major.
+I'm **Origami Shido**(折り紙　紫藤). Currently studying in Wuhan University, EIE(Electronic Information Engineering) major.
 
 #### About my name
 
@@ -8,10 +8,10 @@ OrigamiShido is originated from Japanese light novel *Date a Live*'s two charact
 
 #### Currently learning
 
-- C, C++ and Python
-- Mathematica and Matlab
+- C, C++ 和 Python
+- Mathematica 和 Matlab
 - wikitext
-- markdown and latex
+- markdown 和 latex
 - Verilog
 
 #### Why GitHub？
