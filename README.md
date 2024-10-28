@@ -8,11 +8,12 @@ OrigamiShido is originated from Japanese light novel *Date a Live*'s two charact
 
 #### Currently learning
 
-- C, C++ 和 Python
-- Mathematica 和 Matlab
+- C, C++ and Python
+- Mathematica and Matlab
 - wikitext
-- markdown 和 latex
+- markdown and latex
 - Verilog
+- Machine Learning
 
 #### Why GitHub？
 
@@ -31,6 +32,8 @@ To be honest, I'm quite anxious about the current invironment and worrying about
 *I think I have nothing but my hope, faith, vigor, and pain.*
 
 ### Current target
+
+Gaining self-identificaion as a girl. Recently the body and appearance anxiety have relieved a little, but still not enough...Still need to learn and practice.
 
 Actually, I find that my life is somehow overwhelming. In current status I will only update my anthology, making no code contributions but only to express my feelings.
 
