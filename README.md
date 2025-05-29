@@ -33,7 +33,7 @@ To be honest, I'm quite anxious about the current invironment and worrying about
 
 ### Current target
 
-Gaining self-identificaion as a girl. Recently the body and appearance anxiety have relieved a little, but still not enough...Still need to learn and practice.
+<!--Gaining self-identificaion as a girl. Recently the body and appearance anxiety have relieved a little, but still not enough...Still need to learn and practice.-->
 
 Actually, I find that my life is somehow overwhelming. In current status I will only update my anthology, making no code contributions but only to express my feelings.
 
