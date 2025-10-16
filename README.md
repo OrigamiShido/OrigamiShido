@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Origami Shido**(折り紙　紫藤). Currently studying in Wuhan University, EIE(Electronic Information Engineering) major.
+I'm **Origami Shido**(折り紙　紫藤). Currently studying in Wuhan University, EIE(Electronic Information Engineering) major. Pending to be the graduate student at Wuhan University, acoustic field.
 
 #### About my name
 
@@ -14,6 +14,7 @@ OrigamiShido is originated from Japanese light novel *Date a Live*'s two charact
 - markdown and latex
 - Verilog
 - Machine Learning
+- Deep Learning
 
 #### Why GitHub？
 
